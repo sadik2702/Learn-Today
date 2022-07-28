@@ -9,9 +9,17 @@
     background:black;
     opacity: .5;
 }
-/* .lt-center{
-    padding: 10%,0 !important;
-} */
+
 .card-body p{
     text-align: justify;
+}
+
+.lt-bg-blue{
+    background-color: #289BDE;
+}
+.mini{
+    width: 50px;
+}
+.lt-rating{
+    color: #F59E0B;
 }
