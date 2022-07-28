@@ -9,6 +9,9 @@
     background:black;
     opacity: .5;
 }
-/* .carousel-caption{
-    padding-bottom: 10%;
+/* .lt-center{
+    padding: 10%,0 !important;
 } */
+.card-body p{
+    text-align: justify;
+}
